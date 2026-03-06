@@ -5,8 +5,6 @@
 
 # Emerald's SQL Portfolio
 
-# Emerald's SQL Portfolio
-
 Welcome! This repository showcases SQL projects I’ve completed as part of my transition into data analytics. Each project demonstrates my ability to design databases, write queries, analyze datasets, and generate actionable insights.  
 
 ---
