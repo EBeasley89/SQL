@@ -5,6 +5,8 @@
 
 # Emerald's SQL Portfolio
 
+# Emerald's SQL Portfolio
+
 Welcome! This repository showcases SQL projects I’ve completed as part of my transition into data analytics. Each project demonstrates my ability to design databases, write queries, analyze datasets, and generate actionable insights.  
 
 ---
@@ -12,8 +14,9 @@ Welcome! This repository showcases SQL projects I’ve completed as part of my t
 ## Table of Contents
 1. [Netflix Content Analysis](#netflix-content-analysis)
 2. [Fortune Company Benefits Analysis](#fortune-company-benefits-analysis)
-3. [Skills & Tools](#skills--tools)
-4. [Contact](#contact)
+3. [Healthcare Dashboard (Coming Soon)](#healthcare-dashboard-coming-soon)
+4. [Skills & Tools](#skills--tools)
+5. [Contact](#contact)
 
 ---
 
@@ -56,6 +59,21 @@ Evaluated Fortune 1000 companies to understand patterns in employee benefits and
 - Highlighted patterns in PTO and maternity leave across industries  
 
 **Link to Project:** [GitHub Repo/Folder](#)
+
+---
+
+## Healthcare Dashboard (Coming Soon)
+This section will feature a dashboard visualizing hospital patient data and readmission trends.  
+
+![Dashboard Placeholder](https://via.placeholder.com/800x400.png?text=Healthcare+Dashboard+Coming+Soon)
+
+**Dashboard Highlights (Planned):**  
+- Readmission rates by age group and diagnosis  
+- Average length of stay vs readmission  
+- Department-wise patient distribution  
+- Key insights to support hospital quality improvement initiatives
+
+*Dashboard will be added upon completion of the Healthcare Patient Readmission Analysis project.*
 
 ---
 
